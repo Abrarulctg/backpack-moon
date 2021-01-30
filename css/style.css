@@ -20,6 +20,10 @@ body{
     color:#2A1E59;
 }
 
+.nav-item a{
+    font-weight: 700;
+}
+
 .text-green{
     color: #76C27E;
 }
